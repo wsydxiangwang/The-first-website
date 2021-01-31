@@ -12,7 +12,7 @@
 
 ———— 2019.11.29
 
-出门左转`Mood` or [心情小镇，Vue服务端渲染、NodeJS的全栈项目，一个面向小白的个人网站、心情笔记的系统](https://github.com/wsydxiangwang/Mood)
+出门左转`Mood` or [Vue的Nuxt.js服务端渲染框架，NodeJS为后端的全栈项目，Docker一键部署，面向小白的完美博客系统](https://github.com/wsydxiangwang/Mood)
 
 ———— 2020.08.14
 
